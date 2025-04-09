@@ -1,0 +1,10 @@
+# Function to search expenses
+def search_expense():
+    query = search_entry.get().lower()
+    for item in expense_list.get_children():
+        values = expense_list.item(item, "values")
+        if query in values[0].lower() or query in values[2].lower():
+            expense_list.selection_set(item)
+            expense_list.focus(item)
+            return
+    messagebox.showinfo("Search Result", "No matching expense found")
