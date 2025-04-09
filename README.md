@@ -80,19 +80,6 @@ Abdi-Dakane
 Languages
 Python
 100.0%
-Suggested workflows
-Based on your tech stack
-Python Package using Anaconda logo
-Python Package using Anaconda
-Create and test a Python package on multiple Python versions using Anaconda for package management.
-Python package logo
-Python package
-Create and test a Python package on multiple Python versions.
-Pylint logo
-Pylint
-Lint a Python application with pylint.
-More workflows
-Footer
 
 
 ![Screenshot 2025-04-09 145052](https://github.com/user-attachments/assets/c54640ec-b04f-4f50-958a-2c28144ca330)
